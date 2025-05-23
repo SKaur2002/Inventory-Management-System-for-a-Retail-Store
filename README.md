@@ -3,7 +3,7 @@
 
 This project showcases an **Inventory Management System** built with SQL for a small retail store. The system enables efficient tracking of inventory, including item names, categories, expiry dates, stock quantities, supplier details, and reorder levels. It simulates a real-world application of SQL in managing inventory workflows and supporting decision-making in retail businesses.
 
-## 📌 Features
+# 📌 Features
 
 - ✅ Custom database creation (`Inventory_Store`)
 - ✅ Inventory table with 50+ realistic entries
@@ -16,11 +16,9 @@ This project showcases an **Inventory Management System** built with SQL for a s
   - Reorder level
 - ✅ Basic queries to extract actionable insights (e.g., items low in stock, expired items)
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```plaintext
-├── inventory_management.sql        # SQL script for table creation and data insertion
-├── sample_queries.sql              # Useful SQL queries for analysis and reporting
+├── inventory_management.sql        # SQL script for table creation, data insertion, analysis and reporting
 ├── README.md                       # Project overview and documentation
 
 
@@ -28,7 +26,7 @@ This project showcases an **Inventory Management System** built with SQL for a s
 
 This project showcases an **Inventory Management System** built with SQL for a small retail store. The system enables efficient tracking of inventory, including item names, categories, expiry dates, stock quantities, supplier details, and reorder levels. It simulates a real-world application of SQL in managing inventory workflows and supporting decision-making in retail businesses.
 
-## 📌 Features
+# 📌 Features
 
 - ✅ Custom database creation (`Inventory_Store`)
 - ✅ Inventory table with 50+ realistic entries
@@ -41,20 +39,19 @@ This project showcases an **Inventory Management System** built with SQL for a s
   - Reorder level
 - ✅ Basic queries to extract actionable insights (e.g., items low in stock, expired items)
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```plaintext
 ├── inventory_management.sql        # SQL script for table creation and data insertion
 ├── sample_queries.sql              # Useful SQL queries for analysis and reporting
 ├── README.md                       # Project overview and documentation
 
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 Database: MySQL
 Tool: MySQL Workbench 8
 Language: SQL
 
-## 📊 Sample Use Cases
+# 📊 Sample Use Cases
 1. Identify items that need reordering
 
 2. Filter expired items by date
@@ -63,7 +60,7 @@ Language: SQL
 
 4. Aggregate stock level by supplier
 
-## 💡 Learnings
+# 💡 Learnings
 This project helped me strengthen my skills in:
 
 1. SQL data modeling
@@ -74,7 +71,7 @@ This project helped me strengthen my skills in:
 
 4. Real-world application of relational databases
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 Clone the repository:
 
 - git clone https://github.com/yourusername/inventory-management-sql.git
@@ -82,9 +79,9 @@ Clone the repository:
 - Run the scripts to create the database and populate the data.
 - Use sample queries to explore inventory operations.
 
-## 🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome! If you have suggestions or enhancements, feel free to open an issue or submit a pull request.
 
 
-## 🏷️ Tags
+# 🏷️ Tags
 SQL Inventory Management Retail MySQL Database Design SQL Project Data Analytics Retail Optimization
